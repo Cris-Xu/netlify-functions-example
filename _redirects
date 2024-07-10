@@ -1,0 +1,5 @@
+/home /
+
+/store /store-closed 404
+
+/news/* /blog/:splat
